@@ -1,3 +1,2 @@
 Carton = $this->carton($stock, $carton);
-
 DeleteLog = $this->deleteLog(Model::class, $row_id);
