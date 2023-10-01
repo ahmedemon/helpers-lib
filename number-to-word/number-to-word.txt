@@ -1,0 +1,5 @@
+<script src="number-to-word.js"></script>
+<script>
+    const largeNumber = 123456789;
+    const wordsResult = numberToWords(largeNumber);
+</script>
